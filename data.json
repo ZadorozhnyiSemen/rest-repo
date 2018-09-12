@@ -1,0 +1,23 @@
+{
+"data": [
+  {
+    "timestamp": 1231231,
+    "value": 25
+    
+  },
+  {
+    "timestamp": 1412412,
+    "value": 15
+    
+  },
+  {
+    "timestamp": 12415152,
+    "value": 55
+   
+  },
+  {
+    "timestamp": 1251512,
+    "value": 2
+  }
+  ]
+}
